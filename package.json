@@ -33,7 +33,7 @@
     "cli-color": "^2.0.3",
     "configstore": "^6.0.0",
     "discord-rpc": "^4.0.1",
-    "node-fetch": "^2.6.9",
+    "node-fetch": "^2.6.11",
     "npm": "^9.6.4",
     "reblessed": "^0.2.1"
   }
